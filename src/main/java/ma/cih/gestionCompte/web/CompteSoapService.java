@@ -14,7 +14,7 @@ import ma.cih.gestionCompte.metier.ICompteMetier;
 
 @Component
 @WebService
-public class CompteSouapService {
+public class CompteSoapService {
 	
 	 @Autowired
 		ICompteMetier metier;
